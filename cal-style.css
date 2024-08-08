@@ -1,0 +1,44 @@
+.def{
+    background-color: rgb(21, 240, 240);
+  }
+
+
+.abc{
+    color: white;
+    text-align: center;
+}
+
+.ghi{
+    width: 500px;
+    height: 500px;
+    margin: 100px auto;
+    background-color: black;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+}
+
+.input {
+    margin-bottom: 10px;
+}
+
+.input label {
+    color: white;
+    display: block;
+}
+
+.input input {
+    width: 100%;
+    padding: 5px;
+}
+
+.input select {
+    width: 100%;
+    padding: 5px;
+}
+ 
+#mno:hover{
+      background-color: rgb(247, 108, 108);
+      color: white;
+      font-size: 20px;
+}
